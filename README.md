@@ -8,5 +8,5 @@
 - train.py: 훈련을 진행하는 함수가 포함된 모듈입니다.
 - trainer_setup: 훈련진행을 위한 trainer를 설정하는 모듈입니다.
 
-# 학습 및 평가 결과 화면
+## 학습 및 평가 결과 화면
 ![image](https://github.com/user-attachments/assets/805cc1ce-3756-4a8e-bbf0-6825fba6cd68)
