@@ -1,4 +1,4 @@
-# My Fine-Tune ViT 연습
+# Fine-Tune ViT 연습
 
 - config.py: 학습에 필요한 하이퍼 파라미터를 모은 모듈입니다.
 - data.py: 데이터셋을 불러오고 변형하는 것과 관련된 메소드가 저장된 모듈입니다.
